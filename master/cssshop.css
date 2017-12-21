@@ -56,6 +56,13 @@ margin-right: auto;
     }
 }
 
+#categories-menu .navbar-nav > li > .dropdown-menu {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+
 #categories-menu .navbar {
     border: none;
     border-bottom: 1px solid transparent;
