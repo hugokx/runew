@@ -56,7 +56,7 @@ margin-right: auto;
         overflow: visible !important
     }
 }
-.dropdown-menu {
+#categories.dropdown-menu {
     width: 100%;
     position: fixed;
     top: 101px;
