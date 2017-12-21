@@ -30,13 +30,19 @@ margin-right: auto;
         width: 100%;
         margin-left : 0px;
         margin-right : 0px;
-    }
+       }
+        #categories-menu .navbar {
+       border-radius: 0px;
+       }
 }
 @media (min-width: 992px) {
        .container #categories-menu{
         width: 100%;
         margin-left : 0px;
         margin-right : 0px;
+    }
+       #categories-menu .navbar {
+       border-radius: 0px;
     }
 }
 @media (min-width: 768px) {
@@ -45,13 +51,11 @@ margin-right: auto;
         margin-left : 0px;
         margin-right : 0px;
     }
+       #categories-menu .navbar {
+       border-radius: 0px;
+    }
 }
 
-
-@media (min-width: 768px)
- #categories-menu .navbar {
- border-radius: 0px;
-}
 #categories-menu .navbar {
     border: none;
     border-bottom: 1px solid transparent;
