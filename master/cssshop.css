@@ -36,9 +36,6 @@ margin-right: auto;
  * ========================================================================
  * NAVIGACIja - NAVIGATION ======================================================================== */
 
-body {
-    padding-top: 180px;
-}
 .navigacija {
     text-transform: uppercase;
     position: relative !important;
