@@ -66,6 +66,7 @@ margin-right: auto;
 #categories-menu .navbar {
     border: none;
     border-bottom: 1px solid transparent;
+    margin-bottom: 0px;
 }
 
 #categories-menu .navbar-default {
