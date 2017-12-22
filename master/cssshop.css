@@ -94,7 +94,7 @@ margin-right: auto;
     }
 }
 #categories-menu .dropdown-menu {
-    width: 100%;
+    width: calc(100% + 60px);
     position: absolute;
     top: 50px;
     left: 0;
