@@ -109,7 +109,7 @@ margin-right: auto;
     display: inline-block;
 }
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
-    /*top: 210px;*/
+    top: 210px;
 }
 #categories-menu .dropdown-menu li.dropdown {
     background: url(http://decombh.org/img/nav_down.png) no-repeat bottom right !important;
