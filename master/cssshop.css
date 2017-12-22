@@ -102,21 +102,15 @@ margin-right: auto;
     z-index: 1000;
     display: none;
     float: left;
-    /*min-width: 160px;*/
+    min-width: 160px;
     padding: 5px 0;
     margin: 0 auto;
     text-align: center;
 }
-#categories-menu .dropdown-menu{
-       display: inline-block;
-       width: 100%
-}
-
 #categories-menu .dropdown-menu li {
     display: inline-block;
 }
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
-    display : inline-block;
     top: 50px;
 }
 #categories-menu .dropdown-menu li.dropdown {
