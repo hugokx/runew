@@ -95,7 +95,8 @@ margin-right: auto;
 }
 #categories-menu .dropdown-menu {
     width: 100%;
-    position: fixed;
+    position: relative;
+    top : 50px;
     left: 0;
     z-index: 1000;
     display: none;
@@ -109,7 +110,7 @@ margin-right: auto;
     display: inline-block;
 }
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
-    top: 210px;
+    top: 110px;
 }
 #categories-menu .dropdown-menu li.dropdown {
     background: url(http://decombh.org/img/nav_down.png) no-repeat bottom right !important;
