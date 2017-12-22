@@ -96,7 +96,7 @@ margin-right: auto;
 #categories-menu .dropdown-menu {
     width: 100%;
     position: absolute;
-    top: 0px;
+    top: 50px;
     left: 0;
     z-index: 1000;
     display: none;
