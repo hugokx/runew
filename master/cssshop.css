@@ -57,6 +57,8 @@ margin-right: auto;
 }
 /*--*/
 #categories-menu .navbar .container .navbar-nav > li > .dropdown-menu {
+    display : inline-block;
+       width : 100%;
     margin-top: 0;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
@@ -106,7 +108,7 @@ margin-right: auto;
     margin: 0 auto;
     text-align: center;
 }
-#categories .dropdown-menu{
+#categories-menu .dropdown-menu{
        display: inline-block;
        width: 100%
 }
@@ -115,6 +117,7 @@ margin-right: auto;
     display: inline-block;
 }
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
+       display : inline-block;
     top: 50px;
 }
 #categories-menu .dropdown-menu li.dropdown {
