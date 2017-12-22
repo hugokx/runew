@@ -108,7 +108,7 @@ margin-right: auto;
     width:auto!important
 }
 #categories-menu .dropdown-menu li {
-    display: inline-block;
+    display: block;/*inline-block;*/
 }
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
     top: 210px;
