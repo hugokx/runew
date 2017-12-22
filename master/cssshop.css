@@ -94,14 +94,14 @@ margin-right: auto;
     }
 }
 #categories-menu .dropdown-menu {
-    width: calc(100% + 60px);
+    width: 100%;
     position: absolute;
     top: 50px;
     left: 0;
     z-index: 1000;
     display: none;
     float: left;
-    min-width: 160px;
+    min-width: 100%;
     padding: 5px 0;
     margin: 0 auto;
     text-align: center;
