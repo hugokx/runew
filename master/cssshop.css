@@ -93,18 +93,18 @@ margin-right: auto;
         overflow: visible !important
     }
 }
-#categories-menu .dropdown-menu {
+.dropdown-menu {
+    width: 100%;
     position: fixed;
+    top: 178px;
+    left: 0;
     z-index: 1000;
     display: none;
     float: left;
-    min-width: 140px;
+    min-width: 160px;
     padding: 5px 0;
-    margin: 0 auto !important;
+    margin: 0 auto;
     text-align: center;
-    left:0!important;
-    right:0;!important;
-    width:auto!important
 }
 #categories-menu .dropdown-menu li {
     display: inline-block;
