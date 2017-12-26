@@ -14,7 +14,7 @@
   font-weight : 700;
   color : #FFFFFF;
   background-color: rgba(0, 0, 0, 0.36);
-  border-radius : 5px;
+  /*border-radius : 5px;*/
 }
 
 .navbar-default .navbar-nav > a:hover,
@@ -22,7 +22,7 @@
   font-weight : 700;
   color : #FFFFFF;
   background-color: rgba(0, 0, 0, 0.20);
-  border-radius : 5px;
+  /*border-radius : 5px;*/
 }
 
 .navbar-default .navbar-nav > .open > a,
@@ -31,7 +31,7 @@
   font-weight : 700;
   color : #FFFFFF;
   background-color: rgba(0, 0, 0, 0.36);
-  border-radius : 5px;
+  /*border-radius : 5px;*/
 }
 
 .nav > li {
