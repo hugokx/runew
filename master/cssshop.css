@@ -110,6 +110,12 @@
 }
 #categories-menu .nav > li {
     border : none;
+    width : 33.3333%;
+    margin: auto;
+}
+#categories-menu .nav > ul {
+    width: 100%;
+    margin: auto;
 }
 #categories-menu .navbar {
         border: none;
