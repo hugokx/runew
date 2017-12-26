@@ -53,8 +53,8 @@
     position: relative;
     display: block;
     margin: 5px 0px 5px 0px;
-    height: 35px;
-    border-left: 2px solid #777777;
+    /*height: 35px;*/
+    /*border-left: 2px solid #777777;*/
 }
 
 @media (min-width: 768px){
