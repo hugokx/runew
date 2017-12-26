@@ -4,6 +4,13 @@
   background-size : cover;
 }
 
+.navbar.navbar-static-top ul.nav > li.divider {
+    display: none;
+    /* margin-top: 15px; */
+    /* padding-top: 20px; */
+    /* border-right: 1px solid grey; */
+}
+
 .navbar-default .navbar-nav > li > a {
   color : #FFFFFF;
 }
