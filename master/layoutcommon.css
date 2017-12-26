@@ -16,7 +16,7 @@
   background-color: rgba(0, 0, 0, 0.36);
   /*border-radius : 5px;*/
 }
-
+.navbar-default .navbar-nav > a;
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
   font-weight : 700;
