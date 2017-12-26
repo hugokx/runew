@@ -105,6 +105,9 @@
 #categories-menu .navbar-default .navbar-nav > li > a:hover {
     color: #333333;
 }
+#categories-menu .nav > li {
+    border : none;
+}
 
 #categories-menu .navbar .container .navbar-nav > li > .dropdown-menu {
     margin-top: 0;
