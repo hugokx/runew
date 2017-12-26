@@ -1,4 +1,5 @@
 .navbar-default{
-background : ../img/
-
+  background : url(../img/sand.jpg);
+  background-repeat : no-repeat;
+  background-size : cover;
 }
