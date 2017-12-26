@@ -18,26 +18,26 @@
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  font-weight : 700;
+  font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(0, 0, 0, 0.36);
+  background-color: rgba(255, 255, 255, 0.45);
   /*border-radius : 5px;*/
 }
 .navbar-default .navbar-nav > a;
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
-  font-weight : 700;
+  font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(0, 0, 0, 0.20);
+  background-color: rgba(255, 255, 255, 0.35);
   /*border-radius : 5px;*/
 }
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  font-weight : 700;
+  font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(0, 0, 0, 0.36);
+  background-color: rgba(255, 255, 255, 0.45);
   /*border-radius : 5px;*/
 }
 
@@ -46,7 +46,7 @@
     display: block;
     margin: 5px 0px 5px 0px;
     height: 35px;
-    border-left: 2px solid #333333;
+    border-left: 2px solid #777777;
 }
 
 @media (min-width: 768px){
