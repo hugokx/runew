@@ -109,6 +109,12 @@
 #categories-menu .nav > li {
     border : none;
 }
+#categories-menu .navbar {
+        border: none;
+        border-bottom: 1px solid transparent;
+        margin-bottom: 0px;
+        min-height : 100%;
+}
 
 #categories-menu .navbar .container .navbar-nav > li > .dropdown-menu {
     margin-top: 0;
