@@ -101,7 +101,7 @@
 }
 /*--*/
 #categories-menu .navbar-default .navbar-nav > li > a {
-    color: #777777;
+    color: #333333;
     text-align : center;
 }
 #categories-menu .navbar-default .navbar-nav > li > a:hover {
@@ -109,8 +109,6 @@
 }
 #categories-menu .nav > li {
     border : none;
-    width : 33.33333%;
-    margin : auto;
 }
 #categories-menu .navbar {
         border: none;
