@@ -1,7 +1,7 @@
 .navbar-default{
   background : url(../img/sand2.jpg);
   background-repeat : no-repeat;
-  background-size : cover;
+  background-size : auto;
 }
 
 .navbar-default .navbar-nav > li > a {
