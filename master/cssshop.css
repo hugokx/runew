@@ -12,9 +12,6 @@
 
 @media (max-width: 767px) {
     /*Boutton produit por petits ecrans*/
-    .products .product-right {
-    background: transparent;
-    }
     .product-left {
       display : none;
     }
