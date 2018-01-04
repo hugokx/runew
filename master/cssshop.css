@@ -48,6 +48,9 @@
         margin-bottom: 0px;
         min-height : 100%;
     }
+    #categories-menu .navbar > li {
+        float : left;
+    }
     #categories-menu .navbar-nav .open .dropdown-menu > li > a,
     #categories-menu .navbar-nav .open .dropdown-menu .dropdown-header {
         padding: 5px 15px 5px 25px;
