@@ -2,16 +2,17 @@
 /**/
 
 @media (max-width: 992px) {
+
+    
+}
+
+@media (max-width: 767px) {
     .product-left {
         display : none;
     }
     .col-xs-12 {
         width : 50%;
     }
-    
-}
-
-@media (max-width: 767px) {
     #categories-menu .navbar-nav .open .dropdown-menu {
         position: absolute;
         top: 50;
