@@ -64,6 +64,10 @@
     #categories-menu .navbar {
         border-radius: 0px;
     }
+    #categories-menu .nav navbar-nav navbar-left {
+    width : 100%;
+    margin : auto;
+    }
 }
 @media (min-width: 992px) {
     .container {
@@ -79,6 +83,10 @@
     #categories-menu .navbar {
         border-radius: 0px;
     }
+    #categories-menu .nav navbar-nav navbar-left {
+    width : 100%;
+    margin : auto;
+    }
 }
 @media (min-width: 768px) {
     .container {
@@ -93,6 +101,10 @@
     }
     #categories-menu .navbar {
         border-radius: 0px;
+    }
+    #categories-menu .nav navbar-nav navbar-left {
+    width : 100%;
+    margin : auto;
     }
 }
 .img img-responsive block block-categories-slider mb8 {
