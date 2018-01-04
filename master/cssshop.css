@@ -124,6 +124,11 @@
         min-height : 100%;
 }
 
+#categories-menu .nav navbar-nav navbar-left {
+    width : 100%;
+    margin : auto;
+}
+
 #categories-menu .navbar .container .navbar-nav > li > .dropdown-menu {
     margin-top: 0;
     border-top-right-radius: 0;
