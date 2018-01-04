@@ -1,8 +1,8 @@
-.navbar-default{
+/*.navbar-default{
   background : url(../img/lagoon-banner.jpg);
   background-repeat : no-repeat;
   background-size : cover;
-}
+}*/
 
 .navbar.navbar-static-top ul.nav > li.divider {
     display: none;
