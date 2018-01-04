@@ -12,11 +12,11 @@
 
 @media (max-width: 767px) {
     /*Boutton produit por petits ecrans*/
-    .product-left {
+    .products .product-left {
       display : none;
     }
     
-    .product-right {
+    .products .product-right {
         background: #1cc1a9;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
@@ -27,7 +27,7 @@
         border: solid #1cc1a9 2px;
         border-radius: 5px;
     }
-    .product-right:hover {
+    .prducts .product-right:hover {
     background: #9fefe3;
     }
     
