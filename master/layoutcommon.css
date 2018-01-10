@@ -8,11 +8,8 @@
   border-color : #1abb9c;
   background-color : #ffffff;
 }
-#top-menu {
-  margintop : 5px;
-}
-.nav navbar-nav navbar-right > ul {
-  margin-top : 5px;  
+#top_menu {
+  margin-top : 5px;
 }
 
 .navbar.navbar-static-top ul.nav > li.divider {
@@ -36,6 +33,15 @@
   background-color: #1abb9c;
   border-radius : 15px;
 }
+
+.navbar-default .navbar-nav > .dropdown > a:hover,
+.navbar-default .navbar-nav > .dropdown > a:focus {
+  font-weight : 600;
+  color : #FFFFFF;
+  background-color: #1abb9c;
+  border-radius : 15px;
+}
+
 .navbar-default .navbar-nav > a; {
   color : #000000;
 }
@@ -47,7 +53,7 @@
   border-radius : 15px;
 }
 
-.navbar-default .navbar-nav > li:hover,
+/*.navbar-default .navbar-nav > li:hover,
 .navbar-default .navbar-nav > li:focus {
   font-weight : 600;
   color : #FFFFFF;
@@ -59,10 +65,10 @@
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   font-weight : 600;
-  /*color : #FFFFFF;*/
+  color : #FFFFFF;
   background-color: #1abb9c;
   border-radius : 10px;
-}
+}*/
 
 .nav > li {
     position: relative;
