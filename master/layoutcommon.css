@@ -35,7 +35,7 @@
   background-color: #1abb9c;
   border-radius : 15px;
 }
-.navbar-default .navbar-nav > a;
+/*.navbar-default .navbar-nav > a;*/
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
   font-weight : 600;
