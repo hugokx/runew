@@ -51,13 +51,10 @@
   border-radius : 15px;
 }
 
-.navbar-default .navbar-nav > .dropdown-menu > li {
+.navbar-default .navbar-nav > .dropdown-menu > ul {
   border-radius : 5px;
 }
 
-.navbar-default .navbar-nav > a; {
-  color : #000000;
-}
 .navbar-default .navbar-nav > a:hover,
 .navbar-default .navbar-nav > a:focus {
   font-weight : 600;
