@@ -23,7 +23,7 @@
 .navbar-default .navbar-nav > .active > a:focus {
   font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(255, 255, 255, 0.45);
+  background-color: #1abb9c;
   /*border-radius : 5px;*/
 }
 .navbar-default .navbar-nav > a;
@@ -31,7 +31,7 @@
 .navbar-default .navbar-nav > a:focus {
   font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(255, 255, 255, 0.35);
+  background-color: #429e8d;
   /*border-radius : 5px;*/
 }
 
@@ -39,7 +39,7 @@
 .navbar-default .navbar-nav > li:focus {
   font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(255, 255, 255, 0.35);
+  background-color: #429e8d;
   /*border-radius : 5px;*/
 }
 
@@ -48,7 +48,7 @@
 .navbar-default .navbar-nav > .open > a:focus {
   font-weight : 600;
   /*color : #FFFFFF;*/
-  background-color: rgba(255, 255, 255, 0.45);
+  background-color: #1abb9c;
   /*border-radius : 5px;*/
 }
 
