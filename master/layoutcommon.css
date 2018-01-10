@@ -5,7 +5,12 @@
 }*/
 .navbar-default {
   border-bottom : solid 1px;
-    border-color : #1abb9c;
+  border-color : #1abb9c;
+  background-color : #ffffff;
+}
+
+.nav navbar-nav navbar-right > ul {
+  margin-top : 5px;  
 }
 
 .navbar.navbar-static-top ul.nav > li.divider {
