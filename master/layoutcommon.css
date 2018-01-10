@@ -54,8 +54,8 @@
   border-radius : 15px;
 }
 
-/*.navbar-default .navbar-nav > li:hover,
-.navbar-default .navbar-nav > li:focus {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
   font-weight : 600;
   color : #FFFFFF;
   background-color: #1abb9c;
