@@ -6,7 +6,7 @@
     
 }
 
-ul.nav li.dropdown:hover ul.dropdown-menu {
+#categories-menu ul.nav li.dropdown:hover ul.dropdown-menu {
     display: block;
 }
 
