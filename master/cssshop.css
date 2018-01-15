@@ -36,16 +36,6 @@
         width : 50%;
     }
     /*fin boutton produit petits ecrans */
-    #categories-menu .navbar-nav .open .dropdown-menu {
-        position: absolute;
-        top: 0;
-        float: left;
-        width: 100%;
-        margin-top: 0;
-        background-color: transparent;
-        border: 0;
-        box-shadow: none;
-    }
     #categories-menu .navbar {
         border: none;
         border-bottom: 1px solid transparent;
@@ -54,38 +44,7 @@
     }
     #categories-menu .navbar > li {
         float : left;
-    }
-    #categories-menu .navbar-nav .open .dropdown-menu > li > a,
-    #categories-menu .navbar-nav .open .dropdown-menu .dropdown-header {
-        padding: 5px 15px 5px 25px;
-    }
-    #categories-menu .navbar-nav .open .dropdown-menu > li > a {
-        line-height: 20px;
-    }
-    #categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
-    #categories-menu .navbar-nav .open .dropdown-menu > li > a:focus {
-        background-image: none;
-    }
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-        color: #777777;
-    }
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-        color: #333333;
-        background-color: transparent;
-    }
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-        color: #555555;
-        background-color: #e7e7e7;
-    }
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
-    #categories-menu .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
-        color: #cccccc;
-        background-color: transparent;
-    }
+
    #categories-menu .navbar-nav > li > a {
       padding-top : 5px;
       padding-bottom : 5px;
