@@ -21,15 +21,12 @@
     }
     
     .products .product-right {
-        background: #1cc1a9;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
         -o-transition: all 0.3s ease-out 0s;
         transition: all 0.3s ease-out 0s;
         z-index: 2;
         overflow: hidden;
-        border: solid #1cc1a9 2px;
-        border-radius: 5px;
     }
     .prducts .product-right:hover {
     background: #9fefe3;
