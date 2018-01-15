@@ -177,6 +177,9 @@
         margin-bottom: 0px;
         min-height : 100%;
 }
+#categories-menu .navbar-nav {
+   margin : 0px 0px 0px 0px;
+}
 
 #categories-menu .nav navbar-nav navbar-left {
     width : 100%;
