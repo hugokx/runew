@@ -101,7 +101,7 @@
       margin : 0px 0px 0px 0px;
    }
    #categories-menu .navbar-default .navbar-nav > li > a {
-      line-height : 0px;
+      line-height : 20px;
    }
 }
 @media (min-width: 1200px) {
