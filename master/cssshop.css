@@ -27,11 +27,7 @@
         transition: all 0.3s ease-out 0s;
         z-index: 2;
         overflow: hidden;
-    }
-    .prducts .product-right:hover {
-    background: #9fefe3;
-    }
-    
+    }   
     .col-xs-12 {
         width : 50%;
     }
