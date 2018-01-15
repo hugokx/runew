@@ -165,6 +165,7 @@
     border : none;
     width : 33.3333%;
     margin: auto;
+    float: left;
 }
 #categories-menu .nav > ul {
     width: 100%;
