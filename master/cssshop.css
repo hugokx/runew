@@ -17,7 +17,7 @@
 @media (max-width: 767px) {
     /*Boutton produit por petits ecrans*/
     .products .product-left {
-      display : none;
+      /*display : none;*/
     }
     
     .products .product-right {
