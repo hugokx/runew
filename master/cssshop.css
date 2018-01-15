@@ -167,6 +167,18 @@
     margin: auto;
     float: left;
 }
+
+#categories-menu .navbar-nav > li > a {
+   padding-top : 5px;
+   padding-bottom : 5px;
+   
+}
+
+#categories-menu .nav > li > a {
+   padding-top : 5px;
+   padding-bottom : 5px;
+}
+
 #categories-menu .nav > ul {
     width: 100%;
     margin: auto;
