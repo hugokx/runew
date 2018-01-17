@@ -160,16 +160,12 @@
     text-align : center;
     border : none;
 }
-#categories-menu .navbar-default .navbar-nav > li > a:hover {
+#categories-menu .navbar-default .navbar-nav > li > a:hover,
+#categories-menu .navbar-default .navbar-nav > li > a:focus {
     color: #1abb9c;
+    background-color :white;
 }
 
-}
-
-cssshop.css:162
-#categories-menu .navbar-default .navbar-nav > li > a:hover {
-    color: #1abb9c;
-}
 #categories-menu .nav > li {
     border : none;
     width : 33.3333%;
