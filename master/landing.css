@@ -18,5 +18,7 @@
       max-height : unset;
       float : unset;
    }
+   #logo .pull-left {
+    float: unset !important;
 }
 
