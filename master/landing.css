@@ -1,3 +1,7 @@
+#logo {
+   max-height: 8vh;
+   margin: 5px;
+}
 .hero-banner h1 {
    text-align: right;
    line-height: 110%;
