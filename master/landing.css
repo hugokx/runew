@@ -10,6 +10,11 @@
    line-height: 110%;
    margin-right: 10vw;
 }
+@media (max-width: 767px) and (min-width: 481px)
+web.assets_frontend.2.css:25
+body {
+    padding: 0 ;
+}
 @media (max-width: 768px) {
    .hero-banner h1 {
      text-align: center;
