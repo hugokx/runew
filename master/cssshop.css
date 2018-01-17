@@ -87,8 +87,8 @@
 @media (min-width: 1200px) {
     .container {
         width: 100%;
-        margin-left: 15px;
-        margin-right: 15px;
+        margin-left: 0;
+        margin-right: 0;
     }
     .container #categories-menu {
         width: 100%;
@@ -107,8 +107,8 @@
 @media (min-width: 992px) {
     .container {
         width: 100%;
-        margin-left: 15px;
-        margin-right: 15px;
+        margin-left: 0;
+        margin-right: 0;
     }
     .container #categories-menu {
         width: 100%;
@@ -127,8 +127,8 @@
 @media (min-width: 768px) {
     .container {
         width: 100%;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 0;
+        margin-right: 0;
     }
     .container #categories-menu {
         width: 100%;
@@ -161,7 +161,14 @@
     border : none;
 }
 #categories-menu .navbar-default .navbar-nav > li > a:hover {
-    color: #333333;
+    color: #1abb9c;
+}
+
+}
+
+cssshop.css:162
+#categories-menu .navbar-default .navbar-nav > li > a:hover {
+    color: #1abb9c;
 }
 #categories-menu .nav > li {
     border : none;
