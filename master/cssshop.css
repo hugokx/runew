@@ -58,6 +58,13 @@
    #categories-menu .navbar-default .navbar-nav > li > a {
       line-height : 20px;
    }
+   #categories-menu .navbar-nav .open .dropdown-menu {
+      background-color : white;
+   }
+   #categories-menu .navbar-nav > li > .dropdown-menu {
+      border-top: 1px solid #eaeaea;
+      border-right: 1px solid #eaeaea;
+   }
 }
 @media (min-width: 1200px) {
     .container {
