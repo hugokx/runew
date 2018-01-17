@@ -19,7 +19,7 @@
     background-image: linear-gradient(150deg, #1cc1a9 20%, #0a4139 80%);
 }
 
-a.svg:after {
+a.navbar-brand.svg:after {
   content: ""; 
   position: absolute; 
   top: 0; 
@@ -27,7 +27,7 @@ a.svg:after {
   bottom: 0; 
   left: 0;
 }
-a.svg {
+a.navbar-brand.svg {
   position: relative;
   display: block;
 }
