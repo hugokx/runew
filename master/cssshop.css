@@ -61,6 +61,15 @@
    #categories-menu .navbar-nav .open .dropdown-menu {
       background-color : white;
    }
+   #categories-menu .navbar-nav .open .dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333333;
+    white-space: nowrap;
+   }
    #categories-menu .navbar-nav > li > .dropdown-menu {
       border-top: 1px solid #eaeaea;
       border-right: 1px solid #eaeaea;
