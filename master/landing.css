@@ -24,6 +24,7 @@
       max-height : unset;
       float : unset;
       margin : auto;
+      margin-top:20px;
    }
    #logo.pull-left {
     float: unset !important;
