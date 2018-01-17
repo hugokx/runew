@@ -6,3 +6,9 @@
      font-size : 200%;
     } 
 }
+
+.hero-banner h1 {
+   text-align: right;
+   line-height: 110%;
+   margin-right: 10vw;
+}
