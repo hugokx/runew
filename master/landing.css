@@ -1,3 +1,8 @@
+.hero-banner h1 {
+   text-align: right;
+   line-height: 110%;
+   margin-right: 10vw;
+}
 @media (max-width: 768px) {
    .hero-banner h1 {
      text-align: center;
@@ -7,8 +12,3 @@
     } 
 }
 
-.hero-banner h1 {
-   text-align: right;
-   line-height: 110%;
-   margin-right: 10vw;
-}
