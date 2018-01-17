@@ -9,6 +9,10 @@
      margin : 0px 10px 0px 10px;
      font-weight : 400;
      font-size : 200%;
-    } 
+    }
+   #logo {
+      max-height : unset;
+      float : unset;
+   }
 }
 
