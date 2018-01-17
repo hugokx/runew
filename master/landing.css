@@ -17,8 +17,8 @@
      font-weight : 400;
      font-size : 200%;
     }
-   #rowhero-banner{
-      height: none;
+   #rowhero-banner {
+      height: unset;
    }
    #logo {
       max-height : unset;
