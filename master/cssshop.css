@@ -228,7 +228,7 @@
 #categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
-    top: 82px;
+    top: 130px;
     left: 0;
     z-index: 1000;
     display: none;
