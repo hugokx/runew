@@ -10,6 +10,17 @@
 	padding-right : 0;
 }
 
+@media (max-width: 767px) and (min-width: 481px){
+	body {
+	    padding: 0;
+	}
+}
+@media (max-width: 480px){
+	body {
+    	    padding: 0 15px;
+	}
+}
+
 .bg-alpha-gradient {
     background-color: #1cc1a9;
     background-image: -webkit-linear-gradient(310deg, #1cc1a9 20%, #0a4139 80%);
