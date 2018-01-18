@@ -179,6 +179,8 @@ a.svg {
 .navbar-default .navbar-toggle:focus {
     background-color: transparent;
     border : 2px solid white;
+    margin-right: 25px;
+    margin-top: 25px;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
