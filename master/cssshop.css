@@ -70,6 +70,11 @@
     color: #333333;
     white-space: nowrap;
    }
+   
+   #categories-menu .navbar-nav .open .dropdown-menu > li > a:hover {
+      background-color: black;
+   }
+      
    #categories-menu .navbar-nav > li > .dropdown-menu {
       border-top: 1px solid #eaeaea;
       border-right: 1px solid #eaeaea;
