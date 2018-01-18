@@ -22,13 +22,13 @@
 }
 
 .bg-alpha-gradient {
-    background-color: #1cc1a9;
-    background-image: -webkit-linear-gradient(310deg, #1cc1a9 20%, #0a4139 80%);
-    background-image: -moz-linear-gradient(310deg, #1cc1a9 20%, #0a4139 80%);
-    background-image: -ms-linear-gradient(310deg, #1cc1a9 20%, #0a4139 80%);
-    background-image: -o-linear-gradient(310deg, #1cc1a9 20%, #0a4139 80%);
+    background-color: #288a90;
+    background-image: -webkit-linear-gradient(310deg, #288a90 20%, #0a4139 80%);
+    background-image: -moz-linear-gradient(310deg, #288a90 20%, #0a4139 80%);
+    background-image: -ms-linear-gradient(310deg, #288a90 20%, #0a4139 80%);
+    background-image: -o-linear-gradient(310deg, #288a90 20%, #0a4139 80%);
     /*background-image: linear-gradient(150deg, #1cc1a9 20%, #0a4139 80%);*/
-    background-image: linear-gradient(190deg,#1f4d50 25%, #18bd90 80%, #eae8ae 99%);
+    background-image: linear-gradient(190deg,#288a90 25%, #18bd90 80%, #eae8ae 99%);
 }
 
 a.svg {
@@ -42,12 +42,12 @@ a.svg {
 
 .navbar .navbar-default .navbar-static-top{
     box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 2px 20px 0 rgba(0,0,0,0.19);
-    background-image: linear-gradient(181deg,#1f4d50 5%, #18bd90 50%, #eae8ae 95%);
+    background-image: linear-gradient(181deg,#288a90 5%, #18bd90 50%, #eae8ae 95%);
 }
 
 .navbar-default {
     box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 2px 20px 0 rgba(0,0,0,0.19);
-    background-image: linear-gradient(181deg,#1f4d50 5%, #18bd90 50%, #eae8ae 95%);
+    background-image: linear-gradient(181deg,#288a90 5%, #18bd90 50%, #eae8ae 95%);
     border : none;
     font-size : large;
 }
