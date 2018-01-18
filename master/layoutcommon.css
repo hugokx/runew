@@ -46,7 +46,7 @@ a.svg {
 }
 
 #top_menu {
-  margin-top : 5px;
+  margin-top : 20px;
   margin-bottom : 5px;
 }
 
@@ -61,7 +61,7 @@ a.svg {
   color : #FFFFFF;
 }*/
 .navbar-default .navbar-nav > li > a {
-    line-height: 30px;
+    line-height: 50px;
     color : white;
     border-top: 1px solid rgba(255, 255, 255, 0.29);
     border-bottom: 1px solid rgba(255, 255, 255, 1);
