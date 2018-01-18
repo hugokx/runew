@@ -5,6 +5,10 @@
    max-height: 8vh;
    margin: 5px;
 }
+.hero-banner h1 > span {
+   color : #f9efa6;
+   font-weight: 800;
+}
 .hero-banner h1 {
     font-family: 'Wire One', sans-serif;
     /* font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif; */
