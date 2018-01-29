@@ -7,16 +7,13 @@
 }
 .hero-banner h1 > span {
    color : #034a56;
-   font-weight: 800;
 }
 .hero-banner h1 {
-    font-family: 'Wire One', sans-serif;
-    /* font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif; */
     font-size: 50px;
     font-weight: 500;
-    letter-spacing: 7px;
+    letter-spacing: 2px;
     color: #fff0f0;
-    text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 3px 3px 0px rgba(0,0,0,0.05);
     text-align: right;
     line-height: 110%;
 }
